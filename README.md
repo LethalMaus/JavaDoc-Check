@@ -1,4 +1,4 @@
-# JavaDocCheck
+# JavaDoc-Check
 
 This is a small Maven Project to test Checkstyle checks towards JavaDocs.
 
