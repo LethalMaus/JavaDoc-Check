@@ -1,4 +1,4 @@
-package test2;
+package com.lethalmaus.javadoccheck;
 
 /**
  * The Class Test2.

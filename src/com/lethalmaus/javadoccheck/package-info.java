@@ -5,4 +5,4 @@
  * @author GEV6
  *
  */
-package test2;
+package com.lethalmaus.javadoccheck;

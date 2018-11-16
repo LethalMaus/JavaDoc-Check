@@ -1,4 +1,4 @@
-package test;
+package com.lethalmaus.javadoccheck;
 
 public interface TestInterface {
 
