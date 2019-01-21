@@ -16,3 +16,7 @@ Results can be found in target/checkstyle-result.xml
 The definitions are based on the developers using correct variable naming conventions.
 
 Feel free to download, try it & change it
+
+Based on the maven-checkstyle-plugin
+
+See JavaDocCheck.xml for the definitions & comments
